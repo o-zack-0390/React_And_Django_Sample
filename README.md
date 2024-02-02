@@ -1,6 +1,6 @@
 # React_And_Django_Sample
 
-ReactとDjangoが使えるDocker環境を作成。<br><br>
+ハッカソンでの使用目的で React と Django が使える Docker 環境を作成。<br><br>
 ![Alt text](image.png)
 
 ## サービス一覧
