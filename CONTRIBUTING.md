@@ -84,9 +84,11 @@
 
 ### 14. 下記実行 (データベース起動)
     $ docker-compose up -d mysql
+    ![Alt text](image-1.png)
 
 ### 15. 下記実行 (他のコンテナ起動)
     $ docker-compose up -d
+    ![Alt text](image-2.png)
 
 ### 16. 下記実行(アプリケーションを停止するときに実行)
     $ docker-compose down
